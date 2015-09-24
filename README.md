@@ -1,5 +1,5 @@
 # bLoader
-
+An Angular module to manager loaders 
 
 
 ## Getting Started

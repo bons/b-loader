@@ -1,6 +1,6 @@
 {
   "name": "bLoader",
-  "description": "",
+  "description": "An Angular module to manager loaders",
   "version": "0.1.0",
   "homepage": "https://github.com/bons/b-loader",
   "author": {

@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/bons/b-loader/issues"
   },
+  "main": "lib/index.js",
   "licenses": [
     {
       "type": "MIT",
